@@ -1,0 +1,6 @@
+[start]
+    what do we need from the user?
+        -> Deposit 
+        -> Number of Lines 
+        -> Bet
+
